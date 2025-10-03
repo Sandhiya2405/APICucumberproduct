@@ -1,0 +1,16 @@
+<extentreports>
+<configuration>
+
+<theme>dark</theme>
+<encoding>utf-8</encoding>
+<protocol>https</protocol>
+<documentTitle>My Automation report</documentTitle>
+<reportName>Product API</reportName>
+<timelineEnabled>true</timelineEnabled>
+<offlineMode>true</offlineMode>>
+
+
+
+</configuration>
+
+</extentreports>
