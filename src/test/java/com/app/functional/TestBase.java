@@ -10,6 +10,8 @@ public class TestBase {
 		handleProxy();
 	}
 	
+	//generate token and add it to the header
+	
 	public RequestSpecBuilder requestspecbuilder = new RequestSpecBuilder();
 
 	public void handleProxy(){
