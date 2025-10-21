@@ -4,7 +4,15 @@ import io.restassured.builder.RequestSpecBuilder;
 
 public class TestBase {
 
+
 	//Test git
+
+	//Test git pull
+
+	public TestBase(){
+		handleProxy();
+	}
+
 	
 	public RequestSpecBuilder requestspecbuilder = new RequestSpecBuilder();
 
